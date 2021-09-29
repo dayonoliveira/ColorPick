@@ -16,7 +16,7 @@ Here are some screenshots of the app working.
 
 ### Green screen
 
-<img alt="Green screen" src="imgs/gree-screen.jpeg" width="210" height="360"/>
+<img alt="Green screen" src="imgs/green-screen.jpeg" width="210" height="360"/>
 
 ### Blue screen
 
