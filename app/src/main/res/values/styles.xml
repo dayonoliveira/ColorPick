@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="c_d_c_style">
+        <item name="android:layout_width">260dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">@drawable/copyable_data_container</item>
+    </style>
+
+    <style name="seekbars_container_style">
+        <item name="android:background">@drawable/seekbars_container</item>
+    </style>
+
+    <style name="colors_values_style">
+        <item name="android:background">@drawable/colors_values</item>
+        <item name="android:textColorHint">#A6A6A6</item>
+    </style>
+
+</resources>
